@@ -1,9 +1,9 @@
 {
   "geode": "3.0.0",
-  "version": "v1.0.p",
+  "version": "v1.0.0",
   "id": "matimgmd.click-between-frames",
   "name": "Click Between Frames++",
   "developer": "matimgmd-cloud",
   "description": "A mod that improves click accuracy.",
-  "gd": "2.206"
+  "gd": "2.2081"
 }
