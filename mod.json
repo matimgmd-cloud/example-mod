@@ -1,9 +1,12 @@
+
 {
-  "geode": "3.0.0",
-  "version": "v1.0.0",
-  "id": "matimgmd.click-between-frames",
-  "name": "Click Between Frames++",
-  "developer": "matimgmd-cloud",
-  "description": "A mod that improves click accuracy.",
-  "gd": "2.2081"
+  "geode": "4.0.0",
+  "gd": {
+    "android": "2.2074"
+  },
+  "id": "framebuffer",
+  "name": "FrameBuffer",
+  "version": "1.0.0",
+  "developer": "FrameBufferDev",
+  "description": "Configurable frame-based input buffer."
 }
